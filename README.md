@@ -33,4 +33,4 @@ Based in **Norway** 🇳🇴, with a strong background in **Java** and a passion
 - **Role:** Aspiring Full Stack Developer / QA Engineer
 - **GitHub:** [github.com/KaracaSuleyman](https://github.com/KaracaSuleyman)
 
-![Suleyman's GitHub Stats] ( https://github-readme-stats.vercel.app/api?username=KaracaSuleyman&show_icons=true&theme=radical )
+![Suleyman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaracaSuleyman&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
