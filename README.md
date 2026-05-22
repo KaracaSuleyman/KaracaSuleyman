@@ -20,9 +20,3 @@
 - 📱 Developing robust automated test suites while building modern web applications.
 
 ---
-
-### 📂 Top Projects
-- [com.hepsiburada](https://github.com/KaracaSuleyman/pythonProject) - Web UI Automation with Selenium & Java.
-- [Hepsiburada Mobile](https://github.com/KaracaSuleyman/com.hepsiburada---mobile-test-with-appium) - Mobile Test Automation using Appium.
-
----
